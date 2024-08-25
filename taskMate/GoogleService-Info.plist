@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBPAqfEOHulDKqGLTs5wjtim_Sy_OSpOq8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>409449968142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Shalev.taskMate</string>
+	<key>PROJECT_ID</key>
+	<string>taskmate-624f0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taskmate-624f0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:409449968142:ios:45467864c8d3cc6f0f425f</string>
+</dict>
+</plist>
