@@ -49,6 +49,14 @@ class SignupController: UIViewController {
         }
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        // Clear text fields when the view appears
+        usernameTextField.text = ""
+        passwordTextField.text = ""
+        confirmPasswordTextField.text = ""
+    }
+    
     deinit {
         // Cleanup code if needed
         Database.database().reference().removeAllObservers()
@@ -85,6 +93,9 @@ class SignupController: UIViewController {
     }
 
     @IBAction func exitAction(_ sender: Any) {
+        self.dismiss(animated: false) {
+            self.navigateToViewController()
+        }
     }
     
     private func showAlert(message: String) {

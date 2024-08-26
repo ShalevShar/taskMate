@@ -21,7 +21,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                             </imageView>
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="username" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="PJ0-jT-q0f">
-                                <rect key="frame" x="83" y="296" width="226" height="34"/>
+                                <rect key="frame" x="83" y="355" width="226" height="34"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="226" id="l9Z-av-sfv"/>
                                     <constraint firstAttribute="height" constant="34" id="mVe-DZ-lG0"/>
@@ -31,7 +31,7 @@
                                 <textInputTraits key="textInputTraits" textContentType="username"/>
                             </textField>
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7Ce-YU-ygo">
-                                <rect key="frame" x="83" y="370" width="226" height="34"/>
+                                <rect key="frame" x="83" y="429" width="226" height="34"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="226" id="1oB-me-jyP"/>
                                     <constraint firstAttribute="height" constant="34" id="uXK-lL-qOI"/>
@@ -41,7 +41,7 @@
                                 <textInputTraits key="textInputTraits" secureTextEntry="YES" textContentType="password"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YcI-AX-oze">
-                                <rect key="frame" x="132" y="573.33333333333337" width="129" height="34.333333333333371"/>
+                                <rect key="frame" x="132" y="632.33333333333337" width="129" height="34.333333333333371"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="34.329999999999998" id="glG-Ne-Vap"/>
                                 </constraints>
@@ -56,7 +56,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GMD-e9-C8g">
-                                <rect key="frame" x="105" y="471" width="183" height="41.333333333333371"/>
+                                <rect key="frame" x="105" y="530" width="183" height="41.333333333333371"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="41.329999999999998" id="68g-Rf-1Ah"/>
                                 </constraints>
@@ -163,7 +163,6 @@
                                 </state>
                                 <connections>
                                     <action selector="exitAction:" destination="XfP-yt-Ctn" eventType="touchUpInside" id="r7g-dV-dKl"/>
-                                    <segue destination="BYZ-38-t0r" kind="presentation" modalPresentationStyle="fullScreen" id="rRW-Vj-Srp"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="piN-8l-NzY">
