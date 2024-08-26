@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img width="200" alt="task-records" src="https://github.com/user-attachments/assets/task-records.png">
+ <img width="200" alt="ScreenRecording2024-08-26at21" src="https://github.com/user-attachments/assets/e024b75a-1141-4031-8248-995c2a592fcc">
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <img width="201" alt="collaboration" src="https://github.com/user-attachments/assets/collaboration.png">
+     <img width="200" alt="ScreenRecording2024-08-26at21" src="https://github.com/user-attachments/assets/f741dcd2-416d-45e6-b021-6f985c7697ea">
 </div>
 
 <div align="center">
