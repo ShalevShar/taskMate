@@ -1,7 +1,7 @@
 <div align="center">
+       <img width="200" alt="logo-taskmate" src="https://github.com/user-attachments/assets/71b8cb54-19ef-4c91-8717-05a983a1e8e4"> 
     <h1>TaskMate App</h1>
     <p>A smart and collaborative task management app designed to help you stay organized and work efficiently with others.</p>
-     <img width="200" alt="logo-taskmate" src="https://github.com/user-attachments/assets/71b8cb54-19ef-4c91-8717-05a983a1e8e4">
 </div>
 
 ---
