@@ -38,7 +38,7 @@
 
 # Screenshots
 <img width="200" alt="Screenshot 2024-08-26 at 21 18 30" src="https://github.com/user-attachments/assets/2f52d944-b839-4c91-85a9-138c8cb9f5d3">
-<img width="200" alt="Screenshot 2024-08-26 at 21 18 45" src="https://github.com/user-attachments/assets/a590313f-285c-42de-a6fe-9b0389303596">
+<img width="210" alt="Screenshot 2024-08-26 at 21 18 45" src="https://github.com/user-attachments/assets/a590313f-285c-42de-a6fe-9b0389303596">
 <img width="200" alt="Screenshot 2024-08-26 at 21 20 04" src="https://github.com/user-attachments/assets/5cf4ed5d-5d20-4786-bf0f-1a0ccc9d75fc">
 <img width="200" alt="Screenshot 2024-08-26 at 21 20 45" src="https://github.com/user-attachments/assets/1df64ae4-1972-46fc-ada3-78d316824758">
 
