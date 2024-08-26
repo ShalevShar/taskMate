@@ -30,7 +30,8 @@
 </div>
 
 <div align="center">
- ![ScreenRecording2024-08-26at21 17 49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/54164609-c028-4a24-b4fd-d5fb086746a9)
+    <img width="200" alt="ScreenRecording2024-08-26at21" src="https://github.com/user-attachments/assets/54164609-c028-4a24-b4fd-d5fb086746a9">
+     
 </div>
 
 ---
