@@ -27,8 +27,8 @@ class ViewController: UIViewController {
         // Clear text fields when the view appears
         usernameTextField.text = ""
         passwordTextField.text = ""
-    }
-    
+    } 
+     
     @IBAction func registerAction(_ sender: Any) {
         self.dismissAndNavigateToSignupController()
     }

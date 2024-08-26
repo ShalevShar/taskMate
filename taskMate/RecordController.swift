@@ -44,7 +44,7 @@ class RecordController: UIViewController {
             print("Record Name: \(recordName)") // Debug print the record name
             self.headerLabel.text = recordName // Optionally set the view controller's title to the record name
         }
-    }
+    } 
 
     private func loadItemsForRecord(recordID: String) {
             print("Attempting to load items for record ID: \(recordID)")

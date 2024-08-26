@@ -131,7 +131,7 @@ class HomeController: UIViewController {
             self.recordsTableView.reloadData()
         }
     }
-    
+     
     private func fetchRecordsFromDatabase(username: String) {
         let userRef = Database.database().reference().child("users").child(username).child("records")
         userRef.observe(.value) { [weak self] snapshot in

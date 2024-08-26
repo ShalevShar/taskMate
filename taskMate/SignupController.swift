@@ -18,7 +18,7 @@ class SignupController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    }
+    } 
     @IBAction func signupAction(_ sender: Any) {
         guard let username = usernameTextField.text, !username.isEmpty else {
             showAlert(message: "Please enter a username.")
