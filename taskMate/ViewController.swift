@@ -38,6 +38,13 @@ class ViewController: UIViewController {
             showAlert(message: "Please enter your username.")
             return
         }
+        
+        let invalidCharacters = CharacterSet(charactersIn: ".#$[]")
+        if username.rangeOfCharacter(from: invalidCharacters) != nil {
+            showAlert(message: "Username cannot contain '.', '#', '$', '[', or ']'. Please choose another one.")
+            return
+        }
+        
         guard let password = passwordTextField.text, !password.isEmpty else {
             showAlert(message: "Please enter your password.")
             return
