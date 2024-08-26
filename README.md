@@ -36,12 +36,17 @@
 
 ---
 
-# Usage
-### XML Layout Example:
-```xml
-<com.example.taskmate.TaskView
-    android:id="@+id/taskView"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    app:theme="dark"
-    app:collaborationEnabled="true" />
+# Screenshots
+<img width="200" alt="Screenshot 2024-08-26 at 21 18 30" src="https://github.com/user-attachments/assets/2f52d944-b839-4c91-85a9-138c8cb9f5d3">
+<img width="200" alt="Screenshot 2024-08-26 at 21 18 45" src="https://github.com/user-attachments/assets/a590313f-285c-42de-a6fe-9b0389303596">
+<img width="200" alt="Screenshot 2024-08-26 at 21 20 04" src="https://github.com/user-attachments/assets/5cf4ed5d-5d20-4786-bf0f-1a0ccc9d75fc">
+<img width="200" alt="Screenshot 2024-08-26 at 21 20 45" src="https://github.com/user-attachments/assets/1df64ae4-1972-46fc-ada3-78d316824758">
+
+
+
+# About
+    TaskMate was developed by Shalev Sharabi with the goal of providing an efficient and collaborative task management experience. We hope you enjoy using TaskMate and find it useful for     organizing and managing your tasks with others.
+
+# Credits
+    Authors and Contributors
+    Shalev Sharabi - Developer and maintainer of the TaskMate app.
